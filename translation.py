@@ -16,7 +16,7 @@ class Translation(object):
     TECH_VJ_HELP_TEXT = """
 <b>🖍️ ғᴇᴀᴛᴜʀᴇs :-
 
-🔺 ᴜᴘʟᴏᴀᴅ <a href="https://t.me/VJCode/4">ʏᴛ-ᴅʟᴘ sᴜᴘᴘᴏʀᴛᴇᴅ ʟɪɴᴋs</a> ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ.
+🔺 ᴜᴘʟᴏᴀᴅ <a href="https://t.me/pythomx/11">ʏᴛ-ᴅʟᴘ sᴜᴘᴘᴏʀᴛᴇᴅ ʟɪɴᴋs</a> ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ.
 
 🔺 ᴜᴘʟᴏᴀᴅ ʜᴛᴛᴘ/ʜᴛᴛᴘs ᴀs ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ.
 
@@ -28,7 +28,7 @@ class Translation(object):
 
 💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :-
 
-🔻 ʜᴏᴡ ᴛᴏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋs <a href="https://t.me/VJCode/11">ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ</a>
+🔻 ʜᴏᴡ ᴛᴏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋs <a href="https://t.me/pythomx/17">ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ</a>
 
 🔻 sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
