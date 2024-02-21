@@ -48,7 +48,7 @@ class Translation(object):
 
 🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
 
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/waspros">ᴛᴇᴄʜ ᴠᴊ</a></b>
+👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/waspros">Owner</a></b>
 
 """
 
